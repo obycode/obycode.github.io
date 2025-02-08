@@ -1,15 +1,14 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-
 {{ with .Content }}
 <div class="intro">{{ . }}</div>
 {{ end }}
 
-<ul>
+<ul class="ideas-list">
   {{ range .Pages }}
   <li>
+    <span class="bullet">➜</span>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
+    <span class="date">[{{ .Date.Format "2006-01-02" }}]</span>
   </li>
   {{ end }}
 </ul>

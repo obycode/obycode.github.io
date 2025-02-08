@@ -23,6 +23,36 @@ footer a:hover {
   color: #fb4701;
 }
 
-.post-date {
-  color: #ccc;
+.ideas-list {
+  list-style: none;
+  padding: 0;
+}
+
+.ideas-list li {
+  font-family: "Fira Code", monospace;
+  font-size: 1rem;
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+.bullet {
+  color: #61afef; /* Light blue, dev-style */
+  margin-right: 8px;
+  font-weight: bold;
+}
+
+.ideas-list a {
+  color: #fb4701; /* Orange for links */
+  text-decoration: none;
+}
+
+.ideas-list a:hover {
+  text-decoration: underline;
+}
+
+.date {
+  color: #777;
+  font-size: 0.85rem;
+  margin-left: 10px;
 }
