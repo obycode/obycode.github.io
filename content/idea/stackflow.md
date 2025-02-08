@@ -24,3 +24,8 @@ Check the repo for more details: https://github.com/obycode/stackflow. I've got
 a version of the contract that I'm happy with, and the beginnings of a
 [server implementation](https://github.com/obycode/stackflow-server), but that
 part still needs work.
+
+I'd love to hear your feedback and ideas for use cases! Reply to
+[my post](https://x.com/obycode/status/1887472753286025217) or
+[open an issue](https://github.com/obycode/stackflow/issues/new/choose) in the
+repo.
