@@ -1,0 +1,9 @@
+<a href="{{ "/" | relURL }}"><i class="fa-solid fa-house"></i></a>
+
+{{ range .Site.Menus.main }}
+  <a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
+
+{{ with .Site.GetPage "idea" }}
+  <a href="{{ .RelPermalink }}"><i class="fa-solid fa-lightbulb"></i></a>
+{{ end }}
