@@ -13,9 +13,10 @@ TrackTap is the simplest way to track habits. Tap an emoji, log an event, and ke
 - Apple Watch support
 
 ## Screenshots
-![Emoji grid](/images/tracktap-grid.png)
-![Insights and streaks](/images/tracktap-insights.png)
-![Widgets and Apple Watch](/images/tracktap-watch.png)
+| | |
+| --- | --- |
+| {{< figure src="/images/tracktap-grid.png" alt="Emoji grid" width="360" >}} | {{< figure src="/images/tracktap-insights.png" alt="Insights and streaks" width="360" >}} |
+| {{< figure src="/images/tracktap-watch.png" alt="Apple Watch" width="360" >}} | {{< figure src="/images/tracktap-widgets.png" alt="Widgets" width="360" >}} |
 
 ## Perfect for
 - Daily routines
