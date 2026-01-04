@@ -7,3 +7,7 @@
 {{ with .Site.GetPage "ideas" }}
   <a href="{{ .RelPermalink }}"><i class="fa-solid fa-lightbulb"></i></a>
 {{ end }}
+
+{{ with .Site.GetPage "tracktap" }}
+  <a href="{{ .RelPermalink }}"><i class="fa-regular fa-circle-check"></i></a>
+{{ end }}
