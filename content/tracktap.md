@@ -32,9 +32,11 @@ Download on the App Store.
 
 # Support
 
-Need help with TrackTap? Reach out and we will get back to you as soon as possible.
+Need help with TrackTap or have a feature request? First check the GitHub issues list to see if your issue is already reported, or open a new issue there.
 
-<a href="mailto:tracktap@obycode.com">tracktap@obycode.com</a>
+https://github.com/obycode/tracktap-support/issues
+
+Email is also an option if you prefer: <a href="mailto:tracktap@obycode.com">tracktap@obycode.com</a>
 
 When contacting us for support, please include:
 - Device model
