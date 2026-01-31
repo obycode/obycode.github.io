@@ -50,3 +50,5 @@ When contacting us for support, please include:
 
 ## Privacy
 With TrackTap, your data is under your control. We don’t access your data and we don’t collect personal information.
+
+Read the full privacy policy: [/tracktap-privacy/](/tracktap-privacy/)
